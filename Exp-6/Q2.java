@@ -11,7 +11,7 @@ class Student
     public double getMarks() { return marks; }
 }
 
-public class Q5 {
+public class Q2 {
     public static void main(String[] args) {
         List<Student> students = Arrays.asList(
             new Student("Lavesh Kartik", 82.5),

@@ -21,7 +21,7 @@ class Employee {
     }
 }
 
-public class Q4 {
+public class Q1 {
     public static void main(String[] args) {
         List<Employee> employees = new ArrayList<>();
         employees.add(new Employee("Harshit", 30, 60000));

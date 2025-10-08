@@ -23,7 +23,7 @@ class Product {
     }
 }
 
-public class Q6 {
+public class Q3 {
     public static void main(String[] args) {
         List<Product> products = Arrays.asList(
             new Product("Laptop", 1200.00, "Electronics"),
