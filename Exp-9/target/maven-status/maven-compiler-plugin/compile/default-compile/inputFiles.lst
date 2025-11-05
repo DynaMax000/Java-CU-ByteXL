@@ -1,0 +1,15 @@
+/home/workspace/my-project/src/main/java/com/example/HibernateCRUDExample.java
+/home/workspace/my-project/src/main/java/com/example/controller/StudentController.java
+/home/workspace/my-project/src/main/java/com/example/entity/Student.java
+/home/workspace/my-project/src/main/java/com/example/Main.java
+/home/workspace/my-project/src/main/java/com/example/dao/StudentDao.java
+/home/workspace/my-project/src/main/java/com/example/service/MessageService.java
+/home/workspace/my-project/src/main/java/com/example/service/StudentService.java
+/home/workspace/my-project/src/main/java/com/example/SpringTransactionExample.java
+/home/workspace/my-project/src/main/java/com/example/service/EmailService.java
+/home/workspace/my-project/src/main/java/com/example/config/WebAppInitializer.java
+/home/workspace/my-project/src/main/java/com/example/config/WebConfig.java
+/home/workspace/my-project/src/main/java/com/example/consumer/MessageClient.java
+/home/workspace/my-project/src/main/java/com/example/config/HibernateConfig.java
+/home/workspace/my-project/src/main/java/com/example/config/AppConfig.java
+/home/workspace/my-project/src/main/java/com/example/util/HibernateUtil.java

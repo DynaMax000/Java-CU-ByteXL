@@ -1,0 +1,15 @@
+com/example/service/EmailService.class
+com/example/util/HibernateUtil.class
+com/example/SpringTransactionExample.class
+com/example/service/MessageService.class
+com/example/HibernateCRUDExample.class
+com/example/config/WebConfig.class
+com/example/consumer/MessageClient.class
+com/example/entity/Student.class
+com/example/controller/StudentController.class
+com/example/service/StudentService.class
+com/example/Main.class
+com/example/config/WebAppInitializer.class
+com/example/config/HibernateConfig.class
+com/example/dao/StudentDao.class
+com/example/config/AppConfig.class
